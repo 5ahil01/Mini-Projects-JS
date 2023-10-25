@@ -34,7 +34,7 @@ function makeSound(keyp) {
       break;
     case "J":
       var audio = new Audio(
-        "sounds/land Carryminati meme - CarryMinati 'BOOZE BOOZE BOOZE'.mp3"
+        "sounds/kick-bass.mp3"
       );
       audio.play();
       break;
